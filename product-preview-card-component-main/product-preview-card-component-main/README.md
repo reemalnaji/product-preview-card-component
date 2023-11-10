@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/reemalnaji/product-preview-card-component.git]([https://your-solution-url.com](https://github.com/reemalnaji/product-preview-card-component.git))
+- Solution URL: [https://your-solution-url.com](https://github.com/reemalnaji/product-preview-card-component.git)
 - Live Site URL: [https://product-previewc-ard-component.netlify.app/](https://product-previewc-ard-component.netlify.app/)
 
 ## My process
